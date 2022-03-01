@@ -1,0 +1,182 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The case of Sir Charles Englefield, Baronet</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1687</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B09124</idno>
+            <idno type="STC">Wing E3075B</idno>
+            <idno type="STC">ESTC R176720</idno>
+            <idno type="EEBO-CITATION">64551263</idno>
+            <idno type="OCLC">ocm 64551263</idno>
+            <idno type="VID">184571</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B09124)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 184571)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2867:23)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The case of Sir Charles Englefield, Baronet</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1687]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Reproduction of original in: British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Englefield, Charles, --  Sir --  Trials, litigation, etc.</term>
+               <term>Decedents' estates --  England --  Early works to 1800.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:184571:1" rendition="simple:additions"/>
+            <head>The CASE of Sir Charles Englefield, Baronet.</head>
+            <p>SIR <hi>Francis Englefield</hi> of <hi>Wotton Baſſet</hi> in the County of <hi>Wilts</hi> Baronet, had Iſſue Sir <hi>Francis Englefield</hi> his Son and Heir, Sir <hi>Thomas Englefield, Anthony Englefield, William Englefield,</hi> and <hi>Henry Englefield.</hi>
+            </p>
+            <p>Sir <hi>Francis Englefield</hi> the Son, had Iſſue Sir <hi>Francis Englefield</hi> and ſeveral Daughters.</p>
+            <p>Sir <hi>Thomas Englefield,</hi> Second Son of Sir <hi>Francis Englefield</hi> the Grandfather, had Iſſue Sir <hi>Charles Englefield,</hi> his Son and Heir, the now Defendant.</p>
+            <p>
+               <hi>Anthony Englefield</hi> Third Son of Sir <hi>Francis Englefield</hi> the Grandfather, had Iſſue <hi>Anthony Englefield,</hi> his Son and Heir, the now Plaintiff, or Appellant.</p>
+            <p>After the death of Sir <hi>Francis Englefield</hi> the Grandfather,
+<note place="margin">19 <hi>Junii,</hi> 8 <hi>Car.</hi> 1.</note> Sir <hi>Francis Englefield</hi> the Son, and Dame <hi>Winifred</hi> his Wife, by Indenture 19 <hi>Junii</hi> 8 <hi>Car.</hi> 1. and a Fine Levied, to Set<g ref="char:EOLhyphen"/>tle the Manors of <hi>Soleby, Saxelby, Gremſtone</hi> and <hi>Aſhby,</hi> in the County of <hi>Leiceſter</hi> (being the Manors in Queſtion) to the Uſe of themſelves for their Lives; Remainder to their Firſt, Second, Third, <hi>&amp;c.</hi> Sons in Tayl: Remainders to the Heirs Male of the Body of the ſaid <hi>Francis Englefield</hi> the Son: Remainder to the ſaid Sir <hi>Thomas Englefield</hi> for Life, and to his Firſt, Second, Third, <hi>&amp;c.</hi> Sons in Tayl: Remainder to the ſaid <hi>Anthony, William</hi> and <hi>Henry,</hi> and to all other the Sons of Sir <hi>Francis Englefield</hi> the Grandfather, and their Sons ſucceſſively in like manner, as the ſame were limited to Sir <hi>Thomas Englefield</hi> and his Sons: Remainder to the Right Heirs of the ſaid Sir <hi>Francis</hi> the Grandfather for ever.</p>
+            <p>Sir <hi>Francis Englefield</hi> the Grandchild, being ſeiſed in Fee of an Eſtate in <hi>Wiltſhire,</hi> by his Will appoints 600 <hi>l. per Annum</hi> thereof to be ſold for payment of his Debts, and Deviſes the reſidue thereof to the Lady <hi>Honora</hi> his Wife for her Life: Remainder to the Heirs of his Body: Remainder to his ſaid Uncle Sir <hi>Thomas Englefield</hi> and the Heirs of his Body: Remainder to the ſaid <hi>Anthony, William</hi> and <hi>Henry</hi> ſucceſſively in Tayl: Remainder to his own Right Heirs for ever: And in 1665. dies without Iſſue; and the Lady <hi>Honora</hi> his Widow and Relict Intermarries with Sir <hi>Robert Howard.</hi>
+            </p>
+            <p>So that upon the death of the ſaid Sir <hi>Francis Englefield</hi> the Grandchild, Sir <hi>Thomas Englefield</hi> had in him the Remainder of the <hi>Leicesterſhire</hi> Eſtate after the death of Dame <hi>Winifred,</hi> and the Remainder in Tayl of the <hi>Weleſhire</hi> Eſtate after the Death of the Lady <hi>Honora.</hi>
+            </p>
+            <p>Sir <hi>Thomas Englefield</hi> being unmarried, and then a Priſoner in the Kings Bench for Debt, and in many Troubles, and being a Perſon but of a mean Underſtanding, his youn<g ref="char:EOLhyphen"/>ger Brother <hi>Anthony Englefield,</hi> together with <hi>Anthony Englefield</hi> the now Plaintiff, Son of the ſaid <hi>Anthony,</hi> and one <hi>Thomas Smith,</hi> Combine to get his Eſtate, and to De<g ref="char:EOLhyphen"/>fraud him thereof; To prepare the way whereunto, they tell him he was but Tenant for his Life of both the Eſtates, and could not without his Brother <hi>Anthony</hi> ſell or take up a Farthing on either; That the Two Widows were healthy and young, and likely to out-live him; and that there were ſeveral great Portions Charged upon the Eſtate for his Brother Sir <hi>Francis Englefield</hi>'s Daughters; and that he being not likely to Marry, he could not do better than to ſettle the Eſtate upon his Brother to preſerve the Family.</p>
+            <p>By theſe and other indirect Means,
+<note place="margin">
+                  <hi>Wileſhire E<g ref="char:EOLhyphen"/>ſtate,</hi> 18 <hi>Sep.</hi> 1665.</note> they firſt get Sir <hi>Thomas Englefield</hi> by Indenture, Dated the 18. of <hi>September</hi> 1665. in Conſideration of 600. <hi>l.</hi> therein mentioned, to be paid him by the ſaid Two <hi>Anthonies,</hi> his Brother and Nephew, and of a Rent Charge of 200 <hi>l. per Annum</hi> to be Granted by them, or one of them to have continuance ſo long as he the ſaid Sir <hi>Thomas</hi> remained unmarried, to Convey the ſaid <hi>Wil<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſhire</hi> Eſtate (being of the clear yearly Value of 2500 <hi>l.</hi> and upwards) unto the ſaid Two <hi>Anthonies</hi> and their Heirs for ever.</p>
+            <p>By Articles of the ſame Date, it was acknowledged by the Two <hi>Anthonies,</hi> that only 200 <hi>l</hi> of the ſaid 600 <hi>l.</hi> was really paid to Sir <hi>Thomas Englefield,</hi> and the Two <hi>Anthonies</hi> Covenanted to pay Sir <hi>Thomas</hi> the 400 <hi>l.</hi> Reſidue, and to ſettle on him the ſaid Rent Charge of 200 <hi>l. per Annum,</hi> with a Proviſo therein, That if the Two <hi>Anthonies</hi> ſhould at any time before the Firſt of <hi>September</hi> then next enſuing, refuſe to pay the ſaid 400 <hi>l.</hi> or to ſettle the ſaid 200 <hi>l. per Annum</hi> Rent Charge, and Sir <hi>Thomas</hi> ſhould Re-pay the ſaid 200 <hi>l.</hi> he had received, then the ſaid Indenture ſhould be of no Effect, and they to Re-Convey the Eſtate to Sir <hi>Thomas.</hi>
+            </p>
+            <p>And for a Reward to the ſaid <hi>Thomas Smith,</hi>
+               <note place="margin">4 <hi>October,</hi> 1665.</note> for his dextrous Management of the Buſineſs with Sir <hi>Thomas Englefield,</hi> the Two <hi>Anthonies</hi> by Articles 4. <hi>Octobr.</hi> 1665, Cove<g ref="char:EOLhyphen"/>nant with <hi>Smith,</hi> That he ſhould have a Fourth Part of the <hi>Wiltſhire</hi> Eſtate to him and his Heirs, he paying the Fourth Part of the ſaid 600 <hi>l.</hi> (50 <hi>l.</hi> whereof <hi>Smith</hi> paid down upon Sealing) and ſettling the Fourth Part of the ſaid 200 <hi>l. per Annum</hi> Rent Charge, and bearing the Fourth Part of the Charges: And,</p>
+            <p>By a ſeparate Article of the ſame Date, It was further Agreed between them, that if the Two <hi>Anthonies</hi> ſhould not find themſelves able to proceed in their Bargain with Sir <hi>Thomas Englefield;</hi> That then <hi>Smith</hi> paying the ſaid 400 <hi>l.</hi> and ſettling the ſaid 200 <hi>l. per Annum</hi> Rent Charge, and bearing all Charges at Law, and paying the Two <hi>Anthonies</hi> 500 <hi>l.</hi> more, ſhould have one Moiety of the <hi>Wiltſhire</hi> Eſtate to him and his Heirs.</p>
+            <p>Sir <hi>Robert Howard</hi> having married the Lady <hi>Hmora,</hi>
+               <note place="margin">20 <hi>October,</hi> 1665.</note> who was Tenant for Life of the <hi>Wiltſhire</hi> Eſtate, and being deſirous to Purchaſe the Reverſion, offers Sir <hi>Thomas Englefield</hi> for it an Annuity of 1000 <hi>l. per Annum</hi> during his Life, or 8000 <hi>l.</hi> in ready Money, which he pleaſed: But Sir <hi>Thomas</hi> having Conveyed it to the Two <hi>Anthonies,</hi> could do no<g ref="char:EOLhyphen"/>thing without them, and was fain to accept of the hard Terms following, <hi>viz.</hi> By Articles Tripartite, Date 20. <hi>October</hi> 1665. It was agreed, 1. That Sir <hi>Thomas Englefield</hi> and the Two <hi>Anthonies</hi> ſhould Convey the Reverſion of the <hi>Wiltſhire</hi> Eſtate to Sir <hi>Robert Howard</hi> and his Heirs. 2. That Sir <hi>Robert Howard</hi> ſhould pay Sir <hi>Thomas Englefield</hi> 1000 <hi>l.</hi> in Money, and an Annuity of 400 <hi>l. per Annum</hi> for his Life, while he had no Iſſue of his Body; but if he ſhould have any, then the 400 <hi>l. per Annum</hi> to be paid to the Two <hi>An<g ref="char:EOLhyphen"/>thonies.</hi> 3. That Sir <hi>Robert</hi> ſhould pay to the Two <hi>Anthonies</hi> 2500 <hi>l.</hi> for their ſhares. 4. And ſhould ſave the Two <hi>Anthonies</hi> harmleſs againſt <hi>Smith,</hi> and pay him the 50 <hi>l.</hi> they had of him. 5. By the ſame Articles Sir <hi>Thomas Englefield,</hi> in Conſideration of a Rent Charge of 400 <hi>l. per Annum,</hi> to be ſettled on him by the Two <hi>Anthonies,</hi> to Commence after the Death of Dame <hi>Winifred Englefield,</hi> and to continue while he had no Iſſue of his Body, Covenanted to Convey the ſaid Manors in <hi>Leiceſterſhire</hi> (being the Manors now in queſtion) to the Two <hi>Anthonies</hi> and their Heirs for ever: And the <hi>Wileſhire</hi> Eſtate was afterwards Conveyed to Sir <hi>Robert Howard</hi> accordingly, whereby <hi>Smith</hi> was defeated of the Reward he expected.</p>
+            <p>By this purchaſe, the Two <hi>Anthonies</hi> had not only the ſaid 2500 <hi>l.</hi> but a Preſent of 1000 <hi>l.</hi> more, and an Annuity of 400 <hi>l. per Annum</hi> during Sir <hi>Thomas</hi> his Life, in caſe he had any Iſſue of his Body, and all this clearly without laying out one Peny for it, as afterwards appears by the Confeſſion of <hi>Anthony</hi> the Father upon his Oath, in Anſwer to a Bill Exhi<g ref="char:EOLhyphen"/>bited againſt him and his Son in Chancery by <hi>Smith, viz.</hi> That the 200 <hi>l.</hi> acknowledged by Sir <hi>Thomas Englefield</hi> in the ſaid Articles, Dated 18. <hi>Sept.</hi> 1665. to be paid him by the Two <hi>Anthonies,</hi> or any Part thereof was never paid him.</p>
+            <p>As to the ſaid Manors in <hi>Leiceſterſhire</hi> (which is the Eſtate in queſtion) Sir <hi>Thomas Englefield,</hi> in purſuance of the ſaid Tripartite Articles by his Leaſe dated 20 <hi>October</hi> 1665. and Releaſe dated 21 <hi>October</hi> 1665. Conveys the ſaid <hi>Leiceſterſhire</hi> Eſtate to the Two <hi>Anthonies,</hi> and their Heirs for ever, and Covenants to levy a Fine thereof to the ſame uſes; which Fine was afterwards levyed accordingly. And afterwards the Two <hi>Anthories</hi> granted to Sir <hi>Thomas Englefield</hi> an Annuity or Rent-Charge of 500 <hi>l. perAnnum,</hi> to the iſſuing out of the <hi>Leiceſterſhire</hi> Eſtate for his Life, from the Deceaſe of Dame <hi>Winified Englefield,</hi> and not before, and to continue only while Sir <hi>Thomas</hi> had no Iſſue of his Body.</p>
+            <p>Dame <hi>Winifred Englefield,</hi> Tenant for Life of the <hi>Leiceſterſhire</hi> Eſtate, before the birth of Sir <hi>Charles Englefield,</hi> joyns with the Two <hi>Anthony Englefields</hi> in a Fine and Recovery, to bar the Intail, and dock the Remainders, to the end to defeat the Remainders in Contingency, limited to the Sons of the ſaid Sir <hi>Thomas Englefield,</hi> there being no Truſtees in the ſaid Indenture of 19 <hi>Junii</hi> 8 <hi>Car.</hi> 1. to preſerve contingent Remainders.</p>
+            <p>Sir <hi>Thomas Englefield</hi> Intermarries with Dame <hi>Mary</hi> his now Widow and Relict,
+<label type="milestone">
+                  <seg type="milestoneunit">Bill. </seg>
+               </label> and hath Iſſue by her Sir <hi>Charles Englefield,</hi> the now Defendant, and dies.</p>
+            <p>Sir <hi>Charles Englefield</hi> in 1681. Exhibits his Bill in Chancery againſt <hi>Anthony Englefield</hi> the Son (<hi>Anthony</hi> the Father being then dead) for the <hi>Leiceſterſhire</hi> Eſtate, praying to be Relieved againſt the palpable Fraud and Circumvention of the Two <hi>Anthonies,</hi> in getting the ſaid Eſtate from his Father, and that he might be reſtored to it, and enjoy it according to the ſaid Settlement of 19 <hi>Junii,</hi> 8 <hi>Car.</hi> 1. made by Sir <hi>Francis Englefield</hi> his Uncle.</p>
+            <p>
+               <hi>Anthony Englefield</hi> in his Anſwer (among other things) inſiſts,
+<label type="milestone">
+                  <seg type="milestoneunit">Anſwer. </seg>
+               </label> that one of the Conſiderations for Sir <hi>Thomas Englefields</hi> Conveying the <hi>Leiceſterſhire</hi> Eſtate to him and his Father, and their Heirs, was, That notwithſtanding Sir <hi>Thomas</hi> had abſolutely conveyed the <hi>Wiltſhire</hi> Eſtate to them, yet they ſuffered him to Join with them in the Sale thereof, to Sir <hi>Ro<g ref="char:EOLhyphen"/>bert Howard,</hi> who gave him more for the ſame, then they were to have done.</p>
+            <p>But upon hearing of the Cauſe, and reading the aforeſaid Deeds,
+<label type="milestone">
+                  <seg type="milestoneunit">Decree. </seg>
+               </label> Articles and Conveyances, and ſeveral others, and a long Debate (all which took up ſeveral days) the Court Declared, that it fully appeared, That the Two <hi>Anthonies</hi> had gotten the ſaid <hi>Leiceſterſhire</hi> Eſtate from Sir <hi>Thomas Englefield</hi> by Fraud Practice, and Circumvention: And therefore Decreed 6 <hi>Aprilis Anno</hi> 3 <hi>Jac.</hi> 2. That all Conveyances by him Executed to the ſaid Two <hi>Anthonies</hi> ought to be ſet aſide; And that Poſſeſſion of the ſaid <hi>Leiceſterſhire</hi> Eſtate, and all Deeds and Writings concerning the ſame, ſhould be delivered up to Sir <hi>Charles Englefield:</hi> And that <hi>Anthony</hi> ſhould Convey the ſaid Eſtate to Sir <hi>Charles,</hi> and the Heirs Males of his Body, with ſuch Remainders over as are limited in the ſaid Indenture of 19 <hi>Jun<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi> 8 <hi>Car.</hi> 1. free from all Incumbrances. And Sir <hi>Charles</hi> and the Heirs Males of his Body ſhould quietly enjoy the Premiſſes againſt <hi>Anthony Englefield,</hi> and all Claiming under him. And that <hi>Anthony Englefield</hi> ſhould Account for the Profits.</p>
+            <p>The Two <hi>Anthonies</hi> received the Profits for above Sixteen years,
+<label type="milestone">
+                  <seg type="milestoneunit">Note. </seg>
+               </label> which (at 1500 <hi>l. per Annum</hi>) amounts to 24000 <hi>l.</hi> and upwards.</p>
+            <p>By Virtue of which Decree, the Defendent Sir <hi>Charles Englefield</hi> hath been in Poſſeſſion of the <hi>Leiceſterſhire</hi> Eſtate for about Five years laſt paſt: And in purſuance of an Agree<g ref="char:EOLhyphen"/>ment before his Marriage, and in Conſideration of 3000 <hi>l.</hi> Portion with Dame <hi>Suſanna</hi> his Wife, hath made a Settlement of the Third Part of the ſaid Eſtate upon the ſaid Dame <hi>Suſanna</hi> for her Joynture, with Remainders to the Iſſue of their Bodies in Tail, and ſeveral Remainders over, and hath levied Fines, and ſuffered Recoveries thereof.</p>
+            <p>But the ſaid <hi>Anthony Englefield</hi> hath utterly refuſed to yield Obedience to any part of the ſaid Decree, except the Poſſeſſion, and hath retired into <hi>France.</hi> And his Agents here have put in an Appeal in his Name to the Right Honourable the Houſe of Peers, from the ſaid Decree.</p>
+            <p>Now how little Reaſon the Plaintiff, <hi>Anthony Englefield</hi> hath to inſiſt upon his and his Fathers letting in Sir <hi>Thomas Englefield</hi> to receive ſome of the Purchaſe-Money of the <hi>Wil<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ſhire</hi> Eſtate, as a Conſideration for his Conveying to them the <hi>Leiceſterſhire</hi> Eſtate, is manifeſt; the Plaintiff endeavouring to juſtifie one Fraud by another: For</p>
+            <p n="1">They got from him a Conveyance of the <hi>Wiliſhire</hi> Eſtate (being 2500 <hi>l. per Annum</hi>) for an inconſiderable matter, <hi>viz.</hi> 600 <hi>l.</hi> in ready Money, and an Annuity of 200 <hi>l.</hi> for his Life.</p>
+            <p n="2">Not one peny of this 600 <hi>l.</hi> was ever paid him, and yet they prevailed with him to acknowledge he had received 200 <hi>l.</hi> of it.</p>
+            <p n="3">The 200 <hi>l. per Annum</hi> for his Life was under a Condition or Limitation to continue no longer then Sir <hi>Thomas</hi> remained unmarried; which was of a wicked proſpect, to reſtrain him from Marriage, that he might have no Son to call them to an After-reckoning.</p>
+            <p n="4">They Confeſs afterwards, That though they had gotten Sir <hi>Thomas</hi> to Convey his <hi>Wiltſhire</hi> Eſtate to them for 600 <hi>l.</hi> and 200 <hi>l. per Annum</hi> Annuity, yet they were not able to Pay the one, or Settle the other.</p>
+            <p n="5">Their ſharing the Spoil with <hi>Smith,</hi> and the indirect Tranſactions they had with each other, plainly ſhews the Confederacy between them all to cheat Sir <hi>Thomas Englefield.</hi>
+            </p>
+            <p>So that what the Plaintiff inſiſts on in his Anſwer for a Conſideration why they ſhould deſeat Sir <hi>Thomas Englefield,</hi> and his Iſſue, of the <hi>Leiceſterſhire</hi> Eſtate, amounts to no more then this, That becauſe they had Defrauded him only of the beſt part of the Purchaſe-Money for the <hi>Wiltſhire</hi> Eſtate, and not of all of it, he ſhould give them 1500 <hi>l. per Annum</hi> more in <hi>Leiceſterſhire</hi> for their dealing with him no worſe.</p>
+            <p>And as to the other Conſideration of Sir <hi>Thomas Englefields</hi> Conveyance to the Two <hi>Anthonies</hi> of the <hi>Leiceſterſhire</hi> Eſtate, <hi>viz.</hi> The Settling an Annuity on him of 500 <hi>l. per Annum</hi> during his Life, after the Death of Dame <hi>Winifred Englefield,</hi> It was a clear Fraud put upon him, and no Confideration for him to give them the Eſtate; for Sir <hi>Thomas</hi> (be<g ref="char:EOLhyphen"/>ſides the ſame wicked proſpect to reſtrain Sir <hi>Thomas</hi> from Marriage, as in the Caſe of the <hi>Wileſhire</hi> Eſtate) was to have nothing till the Death of Dame <hi>Winifred,</hi> and after her Death his 500 <hi>l. per Annum</hi> was to be paid out of his Eſtate of 1500 <hi>l.</hi> and the Two <hi>Anthonies</hi> were to have the reſidue during his Life, and the whole after his Death for nothing.</p>
+            <pb facs="tcp:184571:2" rendition="simple:additions"/>
+         </div>
+      </body>
+   </text>
+</TEI>
